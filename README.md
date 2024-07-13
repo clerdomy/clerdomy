@@ -23,7 +23,7 @@ Olá! Sou um desenvolvedor back-end com experiência em Python e frameworks como
 
 ## Contato
 - Email: clerdomyzidor@gmail.com
-- LinkedIn: [linkedin.com/clerdomyzidor](https://www.linkedin.com/clerdomyzidor)
+- LinkedIn: [linkedin.com/clerdomyzidor](https://www.linkedin.com/in/clerdomyzidor/)
 
 ## Estatísticas do GitHub
 - Repositórios: 14
