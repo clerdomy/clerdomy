@@ -8,6 +8,7 @@ Olá! Sou um desenvolvedor back-end com experiência em Python e frameworks como
 - Docker, Linux
 - MySQL, PostgreSQL, MongoDB
 - Git, GitHub
+- c, c++, c#
 
 ## Experiência Profissional
 - Desenvolvedor Back-end - Estagio, Sidia Instituto de Ciência e Tecnologia
@@ -26,5 +27,5 @@ Olá! Sou um desenvolvedor back-end com experiência em Python e frameworks como
 - LinkedIn: [linkedin.com/clerdomyzidor](https://www.linkedin.com/in/clerdomyzidor/)
 
 ## Estatísticas do GitHub
-- Repositórios: 14
+- Repositórios: 15
 
